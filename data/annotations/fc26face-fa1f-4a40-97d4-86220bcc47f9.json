@@ -515,6 +515,55 @@
         }
       ],
       "uuid": "4c387538-287a-4b3b-8de1-1bd7f8f907ce"
+    },
+    {
+      "start_time": 566,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Faeries have little regard for the frailty of mortals, and the way Nicasia speaks about mortals makes it clear that she believes they can be easily replaced. There are plenty more mortals. Nicasia believes the value of the Fae to be much higher. It reinforces the barrier between Jude and Cardan because Cardan is used to having to demand attention and respect. If he allows his friends to know that he cares for Jude at all, it will weaken his image in their eyes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "307d928f-fdfb-4e33-890d-677e3cb7c737"
     }
   ],
   "set": "Default",
