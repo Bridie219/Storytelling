@@ -425,6 +425,55 @@
         }
       ],
       "uuid": "a9d60314-c1b7-4350-86ef-bd8e0122b145"
+    },
+    {
+      "start_time": 467,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The conversation between Jude and Taryn further defines the society they live in. Cardan's royal status provides him a certain level of immunity for any retaliations he makes. Jude doesn't have the same protections because she's a mortal. She has no real power, and no real control."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "735556d6-d5ec-4d6e-a707-897e46043f40"
     }
   ],
   "set": "Default",
