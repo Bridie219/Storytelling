@@ -1252,6 +1252,39 @@
         }
       ],
       "uuid": "19d42d40-9acf-48f1-92d2-5895fc1fe685"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taryn's decision to leave in this scene is symbolic of her choice to abandon Jude. She cannot stand by and watch the decisions Jude is making, so she leaves. She will protect herself instead of Jude, even though Jude would do anything to protect her. It is another way Cardan has isolated Jude, and ensured she feels alone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        }
+      ],
+      "uuid": "0c28a0c9-d79c-4825-b029-b8db3289bd0d"
     }
   ],
   "set": "Default",
