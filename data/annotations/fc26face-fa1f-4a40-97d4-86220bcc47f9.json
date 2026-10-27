@@ -1654,6 +1654,47 @@
         }
       ],
       "uuid": "d6c1b200-ffd6-4f02-bef5-04a997333104"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The offer of a Geis is incredibly powerful. It will mean no one can enchant Jude. It is a measure of protection that is completely permanent. Even if someone stripped her of her protective measures, she would still be safe from glamour and enchantment. It allows her a measure of control she never would have had otherwise, and it means Cardan's magic can't touch her. In terms of power, it places them on the same playing field."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "50c8fcbc-59d9-482b-a264-56d296e74fc3"
     }
   ],
   "set": "Default",
