@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "a70ff970-7dd9-44fa-99f5-01e2738ab166": {
+      "label": "Shadowhunters",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/mexud7kJ6Es?si=CoBiquYjnILzkx6a",
+      "duration": 58
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Shadowhunters",
+  "created_at": "2026-10-27T11:00:15.073Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-10-27T11:00:15.073Z",
+  "updated_by": "Bridie219"
+}

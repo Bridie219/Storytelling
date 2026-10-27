@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "ad4a9a17-3fd0-4481-bc4b-f958bc247186": {
+      "label": "Chilling Adventures of Sabrina",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/R2gbPxeNk2E?si=NwT5TOvdulBdyo64",
+      "duration": 161
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Chilling Adventures of Sabrina",
+  "created_at": "2026-10-27T11:00:15.073Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-10-27T11:00:15.073Z",
+  "updated_by": "Bridie219"
+}
