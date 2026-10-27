@@ -155,6 +155,51 @@
         }
       ],
       "uuid": "64ae23fe-09d5-4385-bef4-c8b848d70643"
+    },
+    {
+      "start_time": 192,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene helps define the society they live in. Madoc acts as Jude's guardian, and Jude must obey Madoc's orders. The reference to standing up to Cardan also begins to establish that they are from different classes, and Cardan has more control over the world they live in than Jude does. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Meeting"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        }
+      ],
+      "uuid": "39cd7e4c-b978-4936-bc2b-37ebfeaddec9"
     }
   ],
   "set": "Default",
