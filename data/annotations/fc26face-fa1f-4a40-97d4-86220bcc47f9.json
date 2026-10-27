@@ -756,6 +756,55 @@
         }
       ],
       "uuid": "43c6f3f8-8b68-459d-b555-3d4348ba625c"
+    },
+    {
+      "start_time": 723,
+      "end_time": 748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude's determination to win revenge over Cardan cements the barrier between them. As long as she resists Cardan, he has to antagonise her. As long as he is the one leading the attacks, he can control how badly Jude is hurt. If he stops attacking her, the attacks from his friends will be much more cruel, and much more devastating to Jude. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "6281b7dd-6c29-4f39-b9e7-a35469c779fb"
     }
   ],
   "set": "Default",
