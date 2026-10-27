@@ -658,6 +658,55 @@
         }
       ],
       "uuid": "890f9124-13f3-4e91-9a23-ce8e52392d20"
+    },
+    {
+      "start_time": 658,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If Jude would surrender, Cardan could convince his friends to leave her alone. He never intended to put her in harm's way, but he knew his friends would not stop tormenting her, until she surrendered. If she would simply stop resisting, he could try to protect her, but Jude refuses to surrender. It is part of what draws Cardan to her. He is used to having people bow to him simply because of his title. Jude's resistance is unusual to him, and he doesn't understand why she does it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "45af8142-b97a-4da1-bb07-d388fad29226"
     }
   ],
   "set": "Default",
