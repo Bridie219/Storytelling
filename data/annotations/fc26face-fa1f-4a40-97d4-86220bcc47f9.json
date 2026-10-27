@@ -1072,6 +1072,51 @@
         }
       ],
       "uuid": "053bab33-d555-4de1-849b-2f8c56cd60ad"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone knows who Cardan is, and what he's capable of. Jude is the unknown, and that's what makes her interesting. Locke suggesting that they are about to find out what Jude is, foreshadows what she is about to become. Her determination to become untouchable and powerful intensifies the barrier between her and Cardan, because she's unwilling to trust him, or let him in, even knowing he can't lie to her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "27c0575e-dd14-4306-b585-3c47fd353bc9"
     }
   ],
   "set": "Default",
