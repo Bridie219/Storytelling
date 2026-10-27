@@ -707,6 +707,55 @@
         }
       ],
       "uuid": "45af8142-b97a-4da1-bb07-d388fad29226"
+    },
+    {
+      "start_time": 694,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cardan is attempting to warn Jude, to remind her that she is mortal, that she cannot face them and win. Jude is determined to find a way anyway. She will prove him wrong, one way or another. She will continue to draw Cardan's attention, and his ire. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "43c6f3f8-8b68-459d-b555-3d4348ba625c"
     }
   ],
   "set": "Default",
