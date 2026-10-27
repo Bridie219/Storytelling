@@ -1,0 +1,133 @@
+{
+  "audiovisual_files": {
+    "257af229-9784-4092-ac58-6582dc14b83d": {
+      "label": "The Society and The Meeting",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/elQtuRHXPbk?si=hvBX0qzLyb-c24wt",
+      "duration": 388,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "1fd433b8-2ead-4005-8795-af86473d3350": {
+      "label": "Darcy's Attraction",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/1IqHzszEJss?si=RL2uLvxAPASYBoiv ",
+      "duration": 560,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "0bb0f45e-21e0-45c2-bf85-0667ec213076": {
+      "label": "Elizabeth's Attraction",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/zGEMXN2tZCk?si=psqLZJ051enXW6CO",
+      "duration": 198,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "de7ccc0f-6901-4836-a401-ef5abda3dda7": {
+      "label": "Darcy's Declaration",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/DJbmGwsJZxI?si=GPtV2zh04AJLxYeg",
+      "duration": 270,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "31181bbb-65b2-4514-9701-85ba137e78f6": {
+      "label": "The Moment of Ritual Death",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/Urh4XFfn05w?si=txrhJ1R_yp7qk1Pp ",
+      "duration": 130,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "ccb3f12d-38df-4b04-8c01-c5abe37cb5e5": {
+      "label": "The Recognition",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/lImJgpANMoU?si=LwqtjLmEQyGoTU-I",
+      "duration": 167,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "cb8d78e8-e08b-4b76-8a80-731c9f0000a3": {
+      "label": "The Recognition",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/_e0SbKGotwk?si=ka0n_FFcx9LiMLsK",
+      "duration": 180,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "26de37e3-e7bd-4ee8-8bfb-522c09df7e26": {
+      "label": "The Betrothal",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/XeHk6R_TPfw?si=NlDUPBDFfwclTG2-",
+      "duration": 272,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "3f891db0-d022-4406-82b9-8297bd718d0b": {
+      "label": "Elizabeth's Declaration",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/uiaIGpAWSyo?si=H3xiPmwk_7UeqbAo",
+      "duration": 185,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "fe8f4756-5195-4eab-b6ea-644ddbc345d7": {
+      "label": "The Barrier",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://youtu.be/-f2VWIQD1C4?si=_F3PHDvPrxrKVw5u",
+      "duration": 232,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "A Case Study of Romance: Pride and Prejudice",
+  "av_file_order": [
+    "257af229-9784-4092-ac58-6582dc14b83d",
+    "fe8f4756-5195-4eab-b6ea-644ddbc345d7",
+    "1fd433b8-2ead-4005-8795-af86473d3350",
+    "0bb0f45e-21e0-45c2-bf85-0667ec213076",
+    "de7ccc0f-6901-4836-a401-ef5abda3dda7",
+    "31181bbb-65b2-4514-9701-85ba137e78f6",
+    "3f891db0-d022-4406-82b9-8297bd718d0b",
+    "ccb3f12d-38df-4b04-8c01-c5abe37cb5e5",
+    "cb8d78e8-e08b-4b76-8a80-731c9f0000a3",
+    "26de37e3-e7bd-4ee8-8bfb-522c09df7e26"
+  ],
+  "created_at": "2026-10-27T10:26:15.930Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-10-27T10:26:15.930Z",
+  "updated_by": "Bridie219"
+}
