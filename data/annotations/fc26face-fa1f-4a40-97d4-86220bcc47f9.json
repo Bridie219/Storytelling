@@ -1334,6 +1334,43 @@
         }
       ],
       "uuid": "1887b6ec-c393-42a4-9706-0f371e05be3c"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her threats to Cardan make him wary of her, especially because she doesn't seem to be afraid of him, even though she should be. She is only a mortal, and making these threats against a Prince of Faerie could be considered treason. Cardan very easily could have her arrested, but he doesn't. A part of the reason is because he enjoys their animosity, and he's also intrigued by Jude and wants to know what she'll do next. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "3dde6096-a763-4ee8-9bae-c7bf86f105d1"
     }
   ],
   "set": "Default",
