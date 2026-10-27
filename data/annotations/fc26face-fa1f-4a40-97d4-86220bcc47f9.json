@@ -1416,6 +1416,47 @@
         }
       ],
       "uuid": "333cac44-d59e-44aa-b557-7139a903722b"
+    },
+    {
+      "start_time": 1182,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude's decision to cover for Cardan and not confess his threats against her also indicates her attraction to him. Neither of them is willing to relinquish their animosity towards the other. Their rivalry is theirs, and theirs alone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "d6243b39-673c-4893-a572-124556c13fc0"
     }
   ],
   "set": "Default",
