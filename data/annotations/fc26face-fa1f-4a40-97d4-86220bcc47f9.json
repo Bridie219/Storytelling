@@ -1285,6 +1285,55 @@
         }
       ],
       "uuid": "0c28a0c9-d79c-4825-b029-b8db3289bd0d"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude's refusal to bow before Cardan's will intrigues him. He is used to people listening to his authority. Jude is determined to create her own authority, and trap Cardan with it. This is a part of the moment of ritual death in the first season, because Cardan allows Jude authority over him. Once he does that, it allows Jude to crown him King of Faerie, and prevent him from escaping his duties the way he had intended."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "1887b6ec-c393-42a4-9706-0f371e05be3c"
     }
   ],
   "set": "Default",
