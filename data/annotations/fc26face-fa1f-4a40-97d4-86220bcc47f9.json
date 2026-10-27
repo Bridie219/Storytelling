@@ -1695,6 +1695,51 @@
         }
       ],
       "uuid": "50c8fcbc-59d9-482b-a264-56d296e74fc3"
+    },
+    {
+      "start_time": 1427,
+      "end_time": 1515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is an offer of servitude. Jude is still limited in her powers, for as long as Prince Dain may live. However, it is much more of a protection than she has had previously. It makes her feel more powerful knowing that Cardan cannot use his magic to control her, and he will not know she cannot be controlled. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Declaration"
+        }
+      ],
+      "uuid": "c728bb75-86f8-4e59-92fd-7ce0946b14db"
     }
   ],
   "set": "Default",
