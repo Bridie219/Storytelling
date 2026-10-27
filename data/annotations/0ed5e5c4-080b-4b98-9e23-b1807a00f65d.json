@@ -28,6 +28,35 @@
         }
       ],
       "uuid": "e4c225bb-5269-4bd1-bc1f-4727c91d14fc"
+    },
+    {
+      "start_time": 67,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angel admits that, despite his efforts to maintain distance from Buffy, he cannot stop thinking about kissing her. His confession reveals the growing tension between his desire to be close to her and his attempts to resist that attraction. By openly acknowledging what he wants, Angel allows his feelings to surface, creating an intimate moment that marks a shift in their interaction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Forbidden Love"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Forced Proximity"
+        }
+      ],
+      "uuid": "721cf0f6-740e-4e6c-90d2-bd85f4efba13"
     }
   ],
   "set": "Default",
