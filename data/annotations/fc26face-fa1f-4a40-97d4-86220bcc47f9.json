@@ -1564,6 +1564,51 @@
         }
       ],
       "uuid": "cc2fd436-344c-4802-9a18-2297f1b7eab5"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dismissive way Prince Dain speaks of Cardan foreshadows the way Cardan was neglected as a child. Later in season one, Jude will infiltrate Cardan's home and learn what his home life is like. Realising the kind of harsh punishments he faces from his older brother Balekin, helps her to understand why Cardan acts the way he does. If he isn't cruel, he is punished for his kindness. It helps Jude begin to overcome the barriers between them, because she realises that he was raised to be cruel, and he fights it when he can. He is simply not always in a position where resistance is possible. In a way, he envies Jude for her freedom. As she is mortal, no one has any expectations for what she will do. Cardan cannot escape the expectations placed on him, and when his family remembers to care about him, they have expectations of the kind of person he will be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Recognition"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "af3bad94-3110-4aac-ad4e-f62d5e60d28a"
     }
   ],
   "set": "Default",
