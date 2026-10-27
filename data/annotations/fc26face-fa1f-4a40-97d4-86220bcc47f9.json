@@ -928,6 +928,39 @@
         }
       ],
       "uuid": "c5af170f-e246-4013-b768-cb3869545144"
+    },
+    {
+      "start_time": 887,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cardan baited Jude with her sister, which draws out Jude's anger. Instead of remembering strategy, she only remembers her rage. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "c4027ee9-5279-4613-b87f-d0c4fa908bf5"
     }
   ],
   "set": "Default",
