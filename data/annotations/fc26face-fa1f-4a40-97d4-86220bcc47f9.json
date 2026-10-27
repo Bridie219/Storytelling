@@ -805,6 +805,43 @@
         }
       ],
       "uuid": "6281b7dd-6c29-4f39-b9e7-a35469c779fb"
+    },
+    {
+      "start_time": 749,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taryn saying \"they're just words to us\" is a reference to the rules of Faerie. Faeries cannot lie, but humans can. The only power Jude really has is the ability to lie without consequence. Faeries are kept to their oaths much more easily than humans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        }
+      ],
+      "uuid": "6e6694ce-1014-419b-bf79-5e06e86c7a4b"
     }
   ],
   "set": "Default",
