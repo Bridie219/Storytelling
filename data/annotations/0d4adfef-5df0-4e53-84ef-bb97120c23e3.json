@@ -113,22 +113,6 @@
       "uuid": "3a661a27-2c2f-426f-9535-f270658ad5d9"
     },
     {
-      "start_time": 0,
-      "end_time": 160,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Elizabeth is so overwhelmed by everything that Mr Darcy has done for Elizabeth and her family that she cannot sleep. She goes for a morning walk instead, and comes across Mr Darcy. There are no longer any issues or barriers preventing them from being together, so it's time for a betrothal. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "800967c9-dcd4-4861-8543-7d6077e8de4d"
-    },
-    {
       "start_time": 161,
       "end_time": 184,
       "annotation": [
