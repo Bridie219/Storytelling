@@ -241,6 +241,47 @@
         }
       ],
       "uuid": "0b9c4914-d4c4-49c1-b5b3-3d915506edfe"
+    },
+    {
+      "start_time": 262,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude's determination to avoid the classes where she is reminded of her place hint towards her aspirations to more. She intends to become a knight, because that is the only way humans are able to gain power in Faerie, and it is the only path to power she will accept."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        }
+      ],
+      "uuid": "364bd309-4da6-4cf7-9ba8-d0fad4f189d3"
     }
   ],
   "set": "Default",
