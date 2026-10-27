@@ -51,7 +51,7 @@
       "duration_overridden": true
     },
     "ccb3f12d-38df-4b04-8c01-c5abe37cb5e5": {
-      "label": "The Recognition (Lady Catherine)",
+      "label": "Elizabeth's Declaration",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/lImJgpANMoU?si=LwqtjLmEQyGoTU-I",
@@ -61,7 +61,7 @@
       "duration_overridden": true
     },
     "cb8d78e8-e08b-4b76-8a80-731c9f0000a3": {
-      "label": "The Recognition",
+      "label": "Darcy's Recognition",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/_e0SbKGotwk?si=ka0n_FFcx9LiMLsK",
@@ -81,7 +81,7 @@
       "duration_overridden": true
     },
     "3f891db0-d022-4406-82b9-8297bd718d0b": {
-      "label": "Elizabeth's Declaration",
+      "label": "Elizabeth's Recognition",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/uiaIGpAWSyo?si=H3xiPmwk_7UeqbAo",
@@ -121,13 +121,13 @@
     "0bb0f45e-21e0-45c2-bf85-0667ec213076",
     "de7ccc0f-6901-4836-a401-ef5abda3dda7",
     "31181bbb-65b2-4514-9701-85ba137e78f6",
-    "3f891db0-d022-4406-82b9-8297bd718d0b",
     "ccb3f12d-38df-4b04-8c01-c5abe37cb5e5",
+    "3f891db0-d022-4406-82b9-8297bd718d0b",
     "cb8d78e8-e08b-4b76-8a80-731c9f0000a3",
     "26de37e3-e7bd-4ee8-8bfb-522c09df7e26"
   ],
   "created_at": "2026-10-27T10:26:15.930Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-27T10:32:17.245Z",
+  "updated_at": "2026-10-27T10:34:01.872Z",
   "updated_by": "Bridie219"
 }
