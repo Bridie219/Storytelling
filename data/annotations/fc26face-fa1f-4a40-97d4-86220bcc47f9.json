@@ -1609,6 +1609,51 @@
         }
       ],
       "uuid": "af3bad94-3110-4aac-ad4e-f62d5e60d28a"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the kind of power Jude has been waiting for. This is the way she can prove herself to Cardan. She can become powerful in her own right, without requiring the support of Madoc, or needing to marry into a powerful position. She has always wanted to earn power that no one could take away from her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "d6c1b200-ffd6-4f02-bef5-04a997333104"
     }
   ],
   "set": "Default",
