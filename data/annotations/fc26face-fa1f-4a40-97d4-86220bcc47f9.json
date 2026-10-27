@@ -474,6 +474,47 @@
         }
       ],
       "uuid": "735556d6-d5ec-4d6e-a707-897e46043f40"
+    },
+    {
+      "start_time": 510,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude and Taryn are able to protect themselves from Faerie glamours, but they cannot defend themselves against a non-magical attack, especially one that they don't see coming. Jude has been training to become a knight, but she dropped her knife, the only weapon she had to defend herself. Without her knife, she is unable to protect herself or her sister. Being defenceless makes her feel weak, which is why the barrier exists between her and Cardan. He is never as defenceless as her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "4c387538-287a-4b3b-8de1-1bd7f8f907ce"
     }
   ],
   "set": "Default",
