@@ -1457,6 +1457,39 @@
         }
       ],
       "uuid": "d6243b39-673c-4893-a572-124556c13fc0"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene acts as a reminder that in this world, only humans can lie. Faeries can speak around the truth, but they cannot tell a lie. They can omit a fact, but they have to be careful in their wording. Jude can lie, and that makes her powerful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        }
+      ],
+      "uuid": "95d6cc84-bf6a-4dba-99e7-3fd4ec32f1fd"
     }
   ],
   "set": "Default",
