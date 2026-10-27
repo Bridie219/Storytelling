@@ -90,6 +90,55 @@
         }
       ],
       "uuid": "aa2a7d93-7fca-420d-b1db-d0e1310bc275"
+    },
+    {
+      "start_time": 122,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After their long-awaited kiss, Angel suddenly transforms into his vampire face, shattering the romantic atmosphere and catching Buffy off guard. Her shocked expression reflects the contrast between the man she has grown attracted to and the vampire she has been trained to fight. The transformation forces Buffy to confront the reality that her feelings for Angel conflict with her role as a Slayer. The abrupt shift from intimacy to fear highlights how their romantic connection is complicated by the very identities that bring them into opposition."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Recognition"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Ritual Death"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Forbidden Love"
+        }
+      ],
+      "uuid": "ebe69966-5e9a-4192-93b4-73a3b8070730"
     }
   ],
   "set": "Default",
