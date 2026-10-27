@@ -1117,6 +1117,55 @@
         }
       ],
       "uuid": "27c0575e-dd14-4306-b585-3c47fd353bc9"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cardan knows Jude can lie, which means he knows that if she did grovel at his feet, it would be a performance at best. All he can have from her is a performance, but he wants her to mean the things she says to him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "d21ad666-d718-4456-a5ef-291fe88d9e40"
     }
   ],
   "set": "Default",
