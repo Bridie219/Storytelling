@@ -1203,6 +1203,55 @@
         }
       ],
       "uuid": "f4aa76f0-e822-43fa-89b8-c23a20fd99ea"
+    },
+    {
+      "start_time": 1035,
+      "end_time": 1085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cardan reinforces the barrier by reminding Jude of her place. She is worth less than he is, because he is a Prince of Faerie. The biggest barrier between them (aside from their animosity for each other) is the class difference. Jude is the adopted daughter of a general. Cardan is the Prince of Faerie. Cardan also has to contend with how he is perceived by his friends and family, and caring for a mortal girl would be deemed an embarassment. Unless, of course, that mortal girl could prove her cunning to the whole of Faerie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "19d42d40-9acf-48f1-92d2-5895fc1fe685"
     }
   ],
   "set": "Default",
