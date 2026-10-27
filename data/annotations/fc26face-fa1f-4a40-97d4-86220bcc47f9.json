@@ -77,6 +77,47 @@
         }
       ],
       "uuid": "836f3f84-bb7d-443f-a3fa-1c5b7bb5831b"
+    },
+    {
+      "start_time": 90,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite the story taking place in a realm called Faerie, the story is not a fairytale. It is a much darker story, closer to the mythology of faeries from Ireland. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        }
+      ],
+      "uuid": "46b0244b-a4e8-485a-b33b-c9ee7f41f32f"
     }
   ],
   "set": "Default",
