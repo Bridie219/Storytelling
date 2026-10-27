@@ -564,6 +564,55 @@
         }
       ],
       "uuid": "307d928f-fdfb-4e33-890d-677e3cb7c737"
+    },
+    {
+      "start_time": 600,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude is only willing to betray her own ideals when one of her family members is in danger. She would tell Cardan whatever he wanted to hear as long as it would save her sister. Jude doesn't care if her actions get her killed, but she would never forgive herself if something happened to Taryn because of her. It is her stubbornness and steadfastness that draws Cardan's attention to her. The way she refuses to allow him the upper hand, even when he definitely has it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        }
+      ],
+      "uuid": "80b002f7-f388-48ab-b251-fd0ad6ce6682"
     }
   ],
   "set": "Default",
