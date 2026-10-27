@@ -57,6 +57,39 @@
         }
       ],
       "uuid": "721cf0f6-740e-4e6c-90d2-bd85f4efba13"
+    },
+    {
+      "start_time": 80,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angel’s evasive response about his age and Buffy’s playful curiosity establish a flirtatious dynamic that gradually builds romantic tension between them. His mysterious demeanour contrasts with Buffy’s willingness to engage with him, allowing their mutual attraction to emerge through teasing rather than direct confession. This exchange foreshadows their first kiss, as the playful conversation develops into a more vulnerable admission of desire when Angel reveals that all he can think about is kissing Buffy. The progression from subtle flirtation to an explicit expression of attraction makes their kiss feel like the culmination of the romantic tension building between them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Forbidden Love"
+        }
+      ],
+      "uuid": "aa2a7d93-7fca-420d-b1db-d0e1310bc275"
     }
   ],
   "set": "Default",
