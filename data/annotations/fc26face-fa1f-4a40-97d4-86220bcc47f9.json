@@ -994,6 +994,47 @@
         }
       ],
       "uuid": "bdabf5b4-6876-4227-98a5-52329d6e2e2b"
+    },
+    {
+      "start_time": 923,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude embarasses Cardan in front of his friends and his family. The tournament makes him look bad, because he was bested by a mortal. She beat a Faerie in battle, and earned herself renown. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "2424ef72-70c7-48c0-8014-6d52d3258016"
     }
   ],
   "set": "Default",
