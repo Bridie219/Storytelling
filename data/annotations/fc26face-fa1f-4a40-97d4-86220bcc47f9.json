@@ -1166,6 +1166,43 @@
         }
       ],
       "uuid": "d21ad666-d718-4456-a5ef-291fe88d9e40"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taryn is jealous of the attention Locke is paying Jude. Taryn aspires to gain power through a political match, whereas Jude wants to attain power in her own right. Taryn's jealousy leads to a moment of ritual death in the second season, when she dresses like Jude in order to manipulate Cardan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Ritual Death"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "f4aa76f0-e822-43fa-89b8-c23a20fd99ea"
     }
   ],
   "set": "Default",
