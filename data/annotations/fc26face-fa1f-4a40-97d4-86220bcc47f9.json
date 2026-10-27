@@ -1,5 +1,47 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The animation of the map immediately helps the audience to understand that they are entering a different world. In the book, the story begins before they enter the new world, and they go through a portal to enter Faerieland. A significant amount of time passes between them entering Faerie and the main storyline beginning. The creators of the film elected to skip the introduction of the story, and skip straight to Jude's existence in Faerie. \n\n \n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        }
+      ],
+      "uuid": "9193b713-87f7-49c8-9d77-ce8adea894d8"
+    }
+  ],
   "set": "Default",
   "event_id": "b70609de-9a64-48fa-946e-2b71cecc7397",
   "source_id": "3990e5d0-ecfd-454f-8da1-8003cdf1dfcd"
