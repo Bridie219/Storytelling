@@ -118,6 +118,43 @@
         }
       ],
       "uuid": "46b0244b-a4e8-485a-b33b-c9ee7f41f32f"
+    },
+    {
+      "start_time": 111,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rules of the fantasy world Jude has found herself in are that everyone is on their own, and anyone can betray anyone. It becomes clear very quickly that Jude's main focus is the survival of herself and her family. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        }
+      ],
+      "uuid": "64ae23fe-09d5-4385-bef4-c8b848d70643"
     }
   ],
   "set": "Default",
