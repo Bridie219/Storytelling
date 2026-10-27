@@ -1531,6 +1531,39 @@
         }
       ],
       "uuid": "692f7556-9a91-4e5d-a79a-ce3ff938092a"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rules of enchantments are very important, because they allow for the confines of the magic system. There are ways around the resistance of enchantment, but the resistance acts as a safeguard, a way to defend oneself. Jude wants something more permanent, so she can protect herself from Cardan. She doesn't want him to ever have control of her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        }
+      ],
+      "uuid": "cc2fd436-344c-4802-9a18-2297f1b7eab5"
     }
   ],
   "set": "Default",
