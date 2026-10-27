@@ -327,6 +327,55 @@
         }
       ],
       "uuid": "5c786789-2366-4e41-a1d6-14cd913d765c"
+    },
+    {
+      "start_time": 363,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene explores the barrier between Jude and Cardan. Cardan uses his status to try to force people to his will, and Jude refuses to bow to Cardan's status, and even hits him, which could end badly for her later. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Meeting"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        }
+      ],
+      "uuid": "ccfaf2f2-2293-42f5-9aaa-2f109c839c53"
     }
   ],
   "set": "Default",
