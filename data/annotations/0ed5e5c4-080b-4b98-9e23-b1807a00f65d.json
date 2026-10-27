@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 31,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the beginning of the episode, Angel stays with Buffy while recovering from injuries sustained in a battle in which he attempted to save her. Their increased proximity places them in unfamiliar territory, as they are spending more time together than they normally would. This shift in their dynamic begins to test the boundaries of their relationship, creating opportunities for their attraction to develop as the emotional distance between them becomes increasingly difficult to maintain.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Tropes",
+          "tag": "Forbidden Love"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Forced Proximity"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        }
+      ],
+      "uuid": "e4c225bb-5269-4bd1-bc1f-4727c91d14fc"
+    }
+  ],
   "set": "Default",
   "event_id": "adcbe5d5-bb6b-4332-b1b6-9907980d6bdd",
   "source_id": "7dba692b-e76c-4646-bcf8-45ce9dbcc59d"
