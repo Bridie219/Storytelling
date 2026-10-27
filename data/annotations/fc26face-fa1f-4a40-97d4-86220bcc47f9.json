@@ -1371,6 +1371,51 @@
         }
       ],
       "uuid": "3dde6096-a763-4ee8-9bae-c7bf86f105d1"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude believes Cardan has come for his revenge for her brash words, but she doesn't think another prince will have come to visit her after her display at the tournament. This visit from Prince Dain signals a shift in status for Jude. Though she is still just a mortal, she is offered a role as a spy. Mortals are able to lie, and they are easily overlooked. They make for good assassins and spies. It is the only kind of power anyone would offer Jude, and she will gladly take it, and claw her way up the ranks. Especially as it will allow her some protection from Cardan. She reports to Prince Dain, now, and Cardan can have no impact on her. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "333cac44-d59e-44aa-b557-7139a903722b"
     }
   ],
   "set": "Default",
