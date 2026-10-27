@@ -200,6 +200,47 @@
         }
       ],
       "uuid": "39cd7e4c-b978-4936-bc2b-37ebfeaddec9"
+    },
+    {
+      "start_time": 248,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The close-up of Jude's hand reveals the rowan berries she wears on a bracelet. These prevent faeries from being able to control her using a glamour. As long as she wears the rowan berries, her free will is protected."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        }
+      ],
+      "uuid": "0b9c4914-d4c4-49c1-b5b3-3d915506edfe"
     }
   ],
   "set": "Default",
