@@ -842,6 +842,43 @@
         }
       ],
       "uuid": "6e6694ce-1014-419b-bf79-5e06e86c7a4b"
+    },
+    {
+      "start_time": 830,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cardan's sword pointing at Jude is symbolic of his choice to target Jude during this tournament. It is a threat and a last warning. If she fails to leave the tournament, he will not be responsible for his actions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "15a6c673-31a0-44de-aa8a-8c031b494fe6"
     }
   ],
   "set": "Default",
