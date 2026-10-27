@@ -613,6 +613,51 @@
         }
       ],
       "uuid": "80b002f7-f388-48ab-b251-fd0ad6ce6682"
+    },
+    {
+      "start_time": 631,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude is only willing to betray her own ideals when one of her family members is in danger. She would tell Cardan whatever he wanted to hear as long as it would save her sister. Jude doesn't care if her actions get her killed, but she would never forgive herself if something happened to Taryn because of her. It is her stubbornness and steadfastness that draws Cardan's attention to her. Teh way she refuses to allow him the upper hand, even when he definitely has it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "890f9124-13f3-4e91-9a23-ce8e52392d20"
     }
   ],
   "set": "Default",
