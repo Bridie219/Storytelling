@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "The Cruel Prince",
   "slug": "the-cruel-prince",
-  "updated_at": "2026-10-27T11:00:15.540Z",
+  "updated_at": "2026-10-27T23:13:19.857Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "b70609de-9a64-48fa-946e-2b71cecc7397"
-  }
+  },
+  "parent": "ec11aa10-e4db-4960-9acb-1ea6bda81fe8"
 }
