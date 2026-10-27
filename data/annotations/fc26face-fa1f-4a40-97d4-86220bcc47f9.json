@@ -40,6 +40,43 @@
         }
       ],
       "uuid": "9193b713-87f7-49c8-9d77-ce8adea894d8"
+    },
+    {
+      "start_time": 22,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The animated introduction is also deisgned to show the audience that this story takes place in a secondary world. It also acts as foresahdowing, because each scene of the animation is based on something that happens within the text. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        }
+      ],
+      "uuid": "836f3f84-bb7d-443f-a3fa-1c5b7bb5831b"
     }
   ],
   "set": "Default",
