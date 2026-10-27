@@ -879,6 +879,55 @@
         }
       ],
       "uuid": "15a6c673-31a0-44de-aa8a-8c031b494fe6"
+    },
+    {
+      "start_time": 841,
+      "end_time": 886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They are very evenly matched in terms of sworplay, and part of Jude's determination in this scene is to take Cardan down. If she can prove herself against a Prince of Faerie, she will have respect and renown that she could not earn otherwise. Her intention to humiliate Cardan further implements the barrier between Cardan and Jude. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "c5af170f-e246-4013-b768-cb3869545144"
     }
   ],
   "set": "Default",
