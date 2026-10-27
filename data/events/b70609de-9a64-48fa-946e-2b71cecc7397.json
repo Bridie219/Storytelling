@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "The Cruel Prince",
+  "label": "A Case Study of Romantasy: The Cruel Prince",
   "created_at": "2026-10-27T11:00:15.073Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-27T11:00:15.073Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-10-27T23:13:46.737Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "3990e5d0-ecfd-454f-8da1-8003cdf1dfcd"
+  ]
 }
