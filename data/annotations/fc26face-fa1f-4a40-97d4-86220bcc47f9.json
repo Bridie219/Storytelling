@@ -376,6 +376,55 @@
         }
       ],
       "uuid": "ccfaf2f2-2293-42f5-9aaa-2f109c839c53"
+    },
+    {
+      "start_time": 378,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude carries salt because salt can be used to break enchantments. It is not toxic to faeries, all it does it make their fruit taste disgusting. The simple act of rebellion is enough to draw Cardan's ire to Jude. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "a9d60314-c1b7-4350-86ef-bd8e0122b145"
     }
   ],
   "set": "Default",
