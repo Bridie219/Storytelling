@@ -1490,6 +1490,47 @@
         }
       ],
       "uuid": "95d6cc84-bf6a-4dba-99e7-3fd4ec32f1fd"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jude's desire for power could also be interpreted as a desire to be on the same level as Cardan. Especially as she consistently seeks political power. She wants to control the throne of Faerie, and find a way to manipulate the crown itself. She will betray whoever it takes to ensure she is never powerless again, and Cardan would allow Jude to manipulate him just to see what she does. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Society"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "692f7556-9a91-4e5d-a79a-ce3ff938092a"
     }
   ],
   "set": "Default",
