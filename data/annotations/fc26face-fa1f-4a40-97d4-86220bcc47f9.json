@@ -1035,6 +1035,43 @@
         }
       ],
       "uuid": "2424ef72-70c7-48c0-8014-6d52d3258016"
+    },
+    {
+      "start_time": 990,
+      "end_time": 1002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cardan seeks his revenge, reminding Jude that the little power she's won can be taken away as easily as her life. Cardan's constant threats towards Jude also create the barrier between them, but they also add to Jude's attraction to Cardan. She can't resist proving him wrong. She is determined to best him. She plans everything so that he will be the one under her control, which will eventually lead towards the moment of ritual death at the end of the first season. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Ritual Death"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Enemies to Lovers"
+        }
+      ],
+      "uuid": "053bab33-d555-4de1-849b-2f8c56cd60ad"
     }
   ],
   "set": "Default",
