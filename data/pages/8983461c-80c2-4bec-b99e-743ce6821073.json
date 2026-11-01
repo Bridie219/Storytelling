@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Portal Fantasy: A Case Study of Narnia",
   "slug": "portal-fantasy-a-case-study-of-narnia",
-  "updated_at": "2026-11-01T03:29:19.384Z",
+  "updated_at": "2026-11-01T03:36:39.732Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "770cc285-c204-439c-946d-44029071cdd6"
-  }
+  },
+  "parent": "30c10eee-b3cc-40b6-956a-f7f4a7b0ed3d"
 }
