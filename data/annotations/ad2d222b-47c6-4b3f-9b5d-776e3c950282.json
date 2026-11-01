@@ -115,6 +115,39 @@
         }
       ],
       "uuid": "d1e61c9a-d77b-4b14-b0b9-a42edb1dfd93"
+    },
+    {
+      "start_time": 111,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A low angle mid shot of Marie stepping out of the balcony and facing the riot. This powerful scene reveals Marie’s moment of bravery by putting herself at risk knowing people wish to kill her and her family. This scene represents a moment of accepting that the French people are against her and the monarchy. Importantly, Marie came out dressed in her robe which reveals that this particular act is not performative. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Power"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Control"
+        }
+      ],
+      "uuid": "d0e3f543-c67a-495f-86f8-076a6f965f8f"
     }
   ],
   "set": "Default",
