@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Otherworld Fantasy: A Case Study of Shadow and Bone",
   "slug": "otherworld-fantasy-a-case-study-of-shadow-an",
-  "updated_at": "2026-10-27T11:00:15.460Z",
+  "updated_at": "2026-11-01T03:29:50.147Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "cfdf0af5-3bb3-44ae-b42f-2ddb31ccf656"
-  }
+  },
+  "parent": "30c10eee-b3cc-40b6-956a-f7f4a7b0ed3d"
 }
