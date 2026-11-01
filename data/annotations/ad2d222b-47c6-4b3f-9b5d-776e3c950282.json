@@ -148,6 +148,43 @@
         }
       ],
       "uuid": "d0e3f543-c67a-495f-86f8-076a6f965f8f"
+    },
+    {
+      "start_time": 128,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mid shot of Marie bowing to the commoners. This powerful scene reveals that Marie is surrendering to the French people and unheard of that a Queen will bow to commoners. This shot is silent to place emphasis on the action. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Power"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Silence"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Surrender"
+        }
+      ],
+      "uuid": "51c958d8-e79c-437a-84e9-8b0d8cc95a82"
     }
   ],
   "set": "Default",
