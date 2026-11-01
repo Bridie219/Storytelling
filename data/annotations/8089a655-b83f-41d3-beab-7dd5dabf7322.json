@@ -186,6 +186,35 @@
         }
       ],
       "uuid": "a44291b2-e5b8-459b-a934-c2c9f48d6094"
+    },
+    {
+      "start_time": 84,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High angel close up shot of Marie and her ladies in waiting relishing in gambling as a result of ignoring their court duties and ignoring the problem of the kingdom. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Revolution"
+        }
+      ],
+      "uuid": "127d7968-abe4-48ca-8a94-d982883e2ae6"
     }
   ],
   "set": "Default",
