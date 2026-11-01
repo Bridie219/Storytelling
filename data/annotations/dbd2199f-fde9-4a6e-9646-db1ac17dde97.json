@@ -199,6 +199,31 @@
         }
       ],
       "uuid": "6938af4a-01c7-4582-bbea-7488034b87d0"
+    },
+    {
+      "start_time": 850,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The narrator stresses that the game raises a problem without offering a solution. That reflects another part of Kojima’s influence, which is leaving players with an unresolved question rather than a neat moral, which allows players to feel like they can draw their own conclusions rather it be dictated to them as per the story's themes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "56615d30-aee5-4c08-bbf2-23c7cca98cf1"
     }
   ],
   "set": "Default",
