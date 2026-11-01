@@ -243,6 +243,43 @@
         }
       ],
       "uuid": "850f1f8e-c0fd-42f4-9db1-1d7e60ec3598"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The book is being explained in chronological order for narrative sense as the book starts with the protagonist Juan Rico assaulting an alien civilisation in order to cause property damage. One of the first canonical scenes is a moral philosophy lesson undertaken by Juan, where Heinlein makes an argument against Marxist philosophy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Futuristic"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Dystopian"
+        }
+      ],
+      "uuid": "965990c9-682c-4502-9a23-dc975c19b711"
     }
   ],
   "set": "Default",
