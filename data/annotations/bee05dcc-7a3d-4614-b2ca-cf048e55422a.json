@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"cfdf0af5-3bb3-44ae-b42f-2ddb31ccf656","source_id":"6c12d8b5-cbea-4676-badd-d1141cda727e"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The reference to the Shadow Fold immediately alerts the audience to the concept of a new world, especially when The Darkling explains that it tore the country in two. Our world has not been torn apart by a magical shadow world. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "ce8d565f-4ea0-40ea-b8f7-37bf7c889a16"
+    }
+  ],
+  "set": "Default",
+  "event_id": "cfdf0af5-3bb3-44ae-b42f-2ddb31ccf656",
+  "source_id": "6c12d8b5-cbea-4676-badd-d1141cda727e"
+}
