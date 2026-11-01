@@ -1,1 +1,36 @@
-{"annotations":[],"set":"Default","event_id":"efbfd07e-46cb-4f82-9839-93874b0e8bcc","source_id":"2e345c3e-0532-4e25-a9ae-8e34140087ed"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A wide shot of Marie in her bedroom. The bedroom symbolises a place of comfort and refuge from the danger outside the Palace. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Danger"
+        }
+      ],
+      "uuid": "0f843a1a-57d4-459a-9c50-7b8d3bd192bb"
+    }
+  ],
+  "set": "Default",
+  "event_id": "efbfd07e-46cb-4f82-9839-93874b0e8bcc",
+  "source_id": "2e345c3e-0532-4e25-a9ae-8e34140087ed"
+}
