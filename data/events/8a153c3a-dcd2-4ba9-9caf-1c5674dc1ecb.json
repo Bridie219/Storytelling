@@ -1,5 +1,16 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "6630e264-a5d2-4334-a991-a79f95c7d20d": {
+      "label": "Starship Troopers",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=JSg6eOmgvW8&t=178s",
+      "duration": 3586,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video",
+      "duration_overridden": true
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +26,9 @@
   "label": "Science Fiction: A Case Study of Starship Troopers",
   "created_at": "2026-11-01T04:04:36.039Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-11-01T04:04:36.039Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-11-01T04:06:59.380Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "6630e264-a5d2-4334-a991-a79f95c7d20d"
+  ]
 }
