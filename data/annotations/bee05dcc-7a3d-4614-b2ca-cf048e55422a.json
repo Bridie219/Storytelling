@@ -61,6 +61,47 @@
         }
       ],
       "uuid": "23ba0d9b-1a08-44cb-9493-141ceef613a3"
+    },
+    {
+      "start_time": 23,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Each clip further explores the conflicts going on in the world of Shadow and Bone, including military clashes, magical battles, and the knife fights amidst the darkness of the Shadow Fold. Each sequence helps to further build the complex political landscape within Shadow and Bone, and the realm of Ravka."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "919229b7-1d8a-4f32-a0bf-40c56d3e9ca2"
     }
   ],
   "set": "Default",
