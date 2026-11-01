@@ -171,6 +171,47 @@
         }
       ],
       "uuid": "d6f3b01c-e31c-4104-850c-67ac0c3eb477"
+    },
+    {
+      "start_time": 29,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clary wants to stay far away from the battle between the Nephilim and the Demons, but her very existence involves her. She tries to keep her life separate from the Shadowhunters, but once she's seen the truth, she cannot ignore it any longer.\nThat, and her mother was kidnapped, so she requires help from the Nephilim in order to see her safely returned.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        }
+      ],
+      "uuid": "4e2e9351-74c3-478a-8352-a045358e551b"
     }
   ],
   "set": "Default",
