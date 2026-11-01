@@ -93,6 +93,43 @@
         }
       ],
       "uuid": "55692a9f-4981-4649-b969-07e1df5e3b4a"
+    },
+    {
+      "start_time": 12,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clary learning that she's part angel helps her to make sense of the strange things she's been seeing, but it also means she becomes one of the guardians of the human world. Instead of just being a normal person, she'd suddenly being hunted by Demons, and having to hunt them in return. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        }
+      ],
+      "uuid": "527c9e02-5c80-4173-bb07-4e109427aadd"
     }
   ],
   "set": "Default",
