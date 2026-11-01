@@ -71,6 +71,35 @@
         }
       ],
       "uuid": "1e390d82-4394-46b6-b1b9-86719116fd3c"
+    },
+    {
+      "start_time": 361,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The protagonist of Starship Troopers, Johny Rico, is a white man from Argentina. Casper Van Dein talks about how Johny Rico was the descendant of Nazis who fled to Argentina after the Second World War."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "cbd3bc6b-b515-4db5-a3fe-65159d5d1ae9"
     }
   ],
   "set": "Default",
