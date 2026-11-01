@@ -240,6 +240,31 @@
         }
       ],
       "uuid": "87577ef5-4276-4f63-94a7-d035fa990551"
+    },
+    {
+      "start_time": 158,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An extreme close up shot of one of Marie’s ladies in eating an extravagant dessert and this shot wants the audience to focus on this particular act and to have full attention of this shot. This shot also represents the indulgence of wealth. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "a4a30516-d70e-40ca-ad94-04d6a7a52bca"
     }
   ],
   "set": "Default",
