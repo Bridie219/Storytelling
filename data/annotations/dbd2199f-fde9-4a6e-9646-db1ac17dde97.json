@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 43,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This moment is considered profound because of the climax of the game is a cutscene where the player is the passenger and at the whims of the game instead of the reverse. The player has no control over how this section of the narrative unfolds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        }
+      ],
+      "uuid": "5d3dd4de-dd33-4316-83ef-14b821ae3f4f"
+    }
+  ],
   "set": "Default",
   "event_id": "55b01ff9-88cf-4710-b580-dfb3cf0635db",
   "source_id": "4562d10b-5c77-41d5-8c2a-5bb396efc2e2"
