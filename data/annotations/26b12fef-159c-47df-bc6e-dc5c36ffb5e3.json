@@ -97,11 +97,15 @@
           "tag": "Movie"
         },
         {
-          "category": "Romantasy",
-          "tag": "Ritual Death"
+          "category": "Romance",
+          "tag": "Declaration"
         },
         {
-          "category": "Romantasy",
+          "category": "Romance",
+          "tag": "Moment of Ritual Death"
+        },
+        {
+          "category": "Romance",
           "tag": "Recognition"
         }
       ],
