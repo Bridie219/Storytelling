@@ -102,6 +102,64 @@
         }
       ],
       "uuid": "919229b7-1d8a-4f32-a0bf-40c56d3e9ca2"
+    },
+    {
+      "start_time": 28,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leigh Bardugo (the author of "
+            },
+            {
+              "text": "Shadow and Bone) ",
+              "italic": true
+            },
+            {
+              "text": "talks about the creation of the show, and how it collected her multiverse of characters, and implemented plot-lines from each story. The show represented the Grishaverse, which was Leigh's story world for "
+            },
+            {
+              "text": "Six of Crows",
+              "italic": true
+            },
+            {
+              "text": " and"
+            },
+            {
+              "italic": true,
+              "text": " Shadow and Bone"
+            },
+            {
+              "text": ". Through the show, she was able to have the characters interact early on, which would help set up a crossover in future seasons."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "c00bb645-e9f5-4bdd-bf55-ea4a7d9d92ac"
     }
   ],
   "set": "Default",
