@@ -126,11 +126,15 @@
           "tag": "Movie"
         },
         {
-          "category": "Romantasy",
+          "category": "Romance",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romance",
           "tag": "Attraction"
         },
         {
-          "category": "Romantasy",
+          "category": "Romance",
           "tag": "Declaration"
         }
       ],
