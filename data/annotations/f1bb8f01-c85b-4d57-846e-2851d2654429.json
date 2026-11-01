@@ -50,7 +50,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        }
+      ],
       "uuid": "9078b7e9-d00b-4060-9579-c71e8fce9f3b"
     },
     {
