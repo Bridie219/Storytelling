@@ -203,6 +203,46 @@
         }
       ],
       "uuid": "9c0aeb6a-d46d-4e0d-82f4-bcc07fcbd853"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the beginning of the section of the video that focuses upon the book "
+            },
+            {
+              "text": "Starship Troopers, ",
+              "italic": true
+            },
+            {
+              "text": "as opposed to the movie. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Dystopian"
+        }
+      ],
+      "uuid": "850f1f8e-c0fd-42f4-9db1-1d7e60ec3598"
     }
   ],
   "set": "Default",
