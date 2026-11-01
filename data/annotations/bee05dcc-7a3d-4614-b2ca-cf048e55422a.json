@@ -491,6 +491,59 @@
         }
       ],
       "uuid": "bf762272-fcd8-4e88-975c-6cdeb73671d1"
+    },
+    {
+      "start_time": 162,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Shadow Fold is a threat to the First and Second Armies, because in order to maintain supplies on the front lines of the war, they must traverse the Shadow Fold. If they are unable to retrieve supplies, or the skiff does not make it through, it means fewer rations, less ammunition, and dwindling chances for survival."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So not only do the Ravkan's have to fend off attacks from Fjerda and Shu Han, they have to fend off attacks from the land they live near, and the Volcra, creatures that were formed entirely from darkness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "16f38e82-9f7d-402f-8983-fde471287ae2"
     }
   ],
   "set": "Default",
