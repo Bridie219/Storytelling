@@ -280,6 +280,43 @@
         }
       ],
       "uuid": "965990c9-682c-4502-9a23-dc975c19b711"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Juan is in training during a low point, he gets a message from his philosophy teacher who attempts to console Juan. This consolation is another philosophical scream against Marxist philosophy, which at the time that Heinlein was writing, was perceived as the cultural and political enemy of America, free market capitalism, and libertarianism which were ideals Heinlein believed in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Futuristic"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Dystopian"
+        }
+      ],
+      "uuid": "2d94445a-0a36-4d35-9531-ed7e58921593"
     }
   ],
   "set": "Default",
