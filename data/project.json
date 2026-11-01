@@ -215,10 +215,6 @@
         },
         {
           "category": "Science Fiction",
-          "tag": "Technology"
-        },
-        {
-          "category": "Science Fiction",
           "tag": "Futuristic"
         },
         {
@@ -276,7 +272,7 @@
       ]
     },
     "created_at": "2026-10-26T00:35:05.772Z",
-    "updated_at": "2026-11-01T06:31:35.814Z",
+    "updated_at": "2026-11-01T06:37:07.480Z",
     "generate_pages_site": true
   },
   "annotations": {},
