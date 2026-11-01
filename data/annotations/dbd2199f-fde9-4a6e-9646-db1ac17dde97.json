@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "5d3dd4de-dd33-4316-83ef-14b821ae3f4f"
+    },
+    {
+      "start_time": 67,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The context of the modern day has led to the writing of games like Metal Gear Solid 2, which are seen as eerily prophetic with how accurate the observations made by the writers behind the games seem, despite being made 2 decades ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "13bb6f25-a237-492e-9386-ad5e9ef46002"
     }
   ],
   "set": "Default",
