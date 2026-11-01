@@ -63,10 +63,10 @@
   "created_at": "2026-10-26T00:35:05.807Z",
   "created_by": "Bridie219",
   "title": "The Genres and Forms of Storytelling",
-  "updated_at": "2026-11-01T09:43:22.109Z",
+  "updated_at": "2026-11-01T09:51:13.310Z",
   "updated_by": "Bridie219",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
