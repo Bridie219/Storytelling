@@ -266,6 +266,47 @@
         }
       ],
       "uuid": "e51af00d-9e59-4dcc-a783-6197fee74b9e"
+    },
+    {
+      "start_time": 181,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lucy is careful when she interacts with the world around her. She struggles to believe the fawn would be frightened of her, and is put at ease when he says he didn't want to frighten Lucy. It makes her feel safe in Narnia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        }
+      ],
+      "uuid": "8197609f-1184-4383-8b3c-6512c5ea9e2e"
     }
   ],
   "set": "Default",
