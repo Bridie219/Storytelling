@@ -87,7 +87,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Ritual Death"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Recognition"
+        }
+      ],
       "uuid": "e081bca2-2ed7-4782-9593-e3a3c99dbd0e"
     },
     {
