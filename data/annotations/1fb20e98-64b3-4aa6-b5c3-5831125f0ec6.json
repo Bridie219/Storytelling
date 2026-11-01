@@ -151,6 +151,43 @@
         }
       ],
       "uuid": "0020c77f-4d8b-4c56-a06f-c9b2990c59a1"
+    },
+    {
+      "start_time": 71,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sabrina is also half human, half witch, so she's being torn between the worlds. She feels a connection to both, and to choose just one means rejecting the other. She is isolated from both worlds, because of her connection to both. She belongs to neither world entirely, which makes her choice that much more difficult. She has to find a balance between the human part of herself, and the witch part.\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Liminal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        }
+      ],
+      "uuid": "a6e02a85-3e88-453e-aeaf-f93de846b1a1"
     }
   ],
   "set": "Default",
