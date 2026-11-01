@@ -212,6 +212,43 @@
         }
       ],
       "uuid": "4e2e9351-74c3-478a-8352-a045358e551b"
+    },
+    {
+      "start_time": 40,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These clips make it clear that the Nephilim do not only face demonic threats, but also other Nephilim that are fighting against them, and trying to achieve their own goals. The Nephilim are at war with themselves too, not just the demons. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        }
+      ],
+      "uuid": "0acd2f03-1eb0-405e-aadf-5ae4ba354eb5"
     }
   ],
   "set": "Default",
