@@ -1,0 +1,45 @@
+{
+  "audiovisual_files": {
+    "53ccd74a-ea65-4c41-a1f3-0d30bcde9fcb": {
+      "label": "Portal Fantasy",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/FqXeJpy0gkQ?si=KQMzZAztvDhe7eAV",
+      "duration": 267,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "90b27487-1618-4180-abfa-42891ce468ea": {
+      "label": "Magic System",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/qkgOyeIsXOw?si=vMVQqjKV6K215mY5",
+      "duration": 152,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Portal Fantasy: A Case Study of Narnia",
+  "av_file_order": [
+    "53ccd74a-ea65-4c41-a1f3-0d30bcde9fcb",
+    "90b27487-1618-4180-abfa-42891ce468ea"
+  ],
+  "created_at": "2026-11-01T03:29:18.883Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-11-01T03:29:18.883Z",
+  "updated_by": "Bridie219"
+}
