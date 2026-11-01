@@ -157,6 +157,35 @@
         }
       ],
       "uuid": "3d865bc5-69cc-4b7d-92c8-c6570e08742b"
+    },
+    {
+      "start_time": 73,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bird’s eye close up of fast cutting jump cuts of different luxury delicacies indicates the metaphor of being consumed by consumerism, as well as the juxtaposition of food in this scene being a symbol of luxury compared to survival.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "a44291b2-e5b8-459b-a934-c2c9f48d6094"
     }
   ],
   "set": "Default",
