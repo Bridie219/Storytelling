@@ -133,6 +133,43 @@
         }
       ],
       "uuid": "a1e22efa-fd49-49b9-8846-c207650ac446"
+    },
+    {
+      "start_time": 541,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shower scene satirises the policies and positions of America's past, particularly the exclusion of rights from groups of people, and the way the military recruits vulnerable people by offering to pay for their college tuition in exchange for military service. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Dystopian"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Futuristic"
+        }
+      ],
+      "uuid": "410c08d2-e2ac-434f-b703-b05791c7abbe"
     }
   ],
   "set": "Default",
