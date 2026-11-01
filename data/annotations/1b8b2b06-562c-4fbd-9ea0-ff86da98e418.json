@@ -69,6 +69,43 @@
         }
       ],
       "uuid": "96d156a7-3982-4c68-a752-5de187b4ae96"
+    },
+    {
+      "start_time": 33,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lucy is completely enthralled by the winter wonderland she's found through the doorway in the wardrobe. She can't believe that it was waiting for her, hiding in a wardrobe, of all things. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        }
+      ],
+      "uuid": "0babf90f-6f3c-421d-b4bd-2757c9fe7c69"
     }
   ],
   "set": "Default",
