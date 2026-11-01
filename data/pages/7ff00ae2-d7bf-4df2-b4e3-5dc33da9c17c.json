@@ -66,9 +66,19 @@
           "italic": true
         },
         {
-          "text": " by Veronica Roth is a metaphor for neurodivergence, and the way the world has been designed for neurotypical people. Dystopias are important because they lead the audience to consider what could happen, if humanity remains on the course its set for itself. "
+          "text": " by Veronica Roth is a metaphor for neurodivergence, and the way the world has been designed for neurotypical people. Dystopias are important because they lead the audience to consider what could happen, if humanity remains on the course its set for itself. \n"
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Starship_Troopers_-_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -76,7 +86,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -92,39 +103,6 @@
           "text": " was a satirical commentary on the Second World War, with examination and mockery of fascism, communism, and the over-dependence on military advancement. "
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Starship_Troopers_-_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "The Genre of Science Fiction",
@@ -136,6 +114,6 @@
   "slug": "the-genre-of-science-fiction",
   "created_at": "2026-11-01T05:42:55.099Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-11-01T09:16:00.107Z",
+  "updated_at": "2026-11-01T09:41:48.102Z",
   "updated_by": "Bridie219"
 }
