@@ -112,7 +112,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Society"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        }
+      ],
       "uuid": "cef9c914-45da-4d2b-b117-c3ec51a57261"
     },
     {
