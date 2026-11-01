@@ -86,6 +86,35 @@
         }
       ],
       "uuid": "0c42aea0-49eb-4425-8d60-a2d56a7a993b"
+    },
+    {
+      "start_time": 94,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A low angle wide shot of the French riot outside the Palace of Versailles. The symbolism of fire represents the rage of the French commoners against the King and Queen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Revolution"
+        }
+      ],
+      "uuid": "d1e61c9a-d77b-4b14-b0b9-a42edb1dfd93"
     }
   ],
   "set": "Default",
