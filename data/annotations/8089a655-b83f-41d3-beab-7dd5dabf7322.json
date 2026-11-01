@@ -78,6 +78,31 @@
         }
       ],
       "uuid": "2c2834cc-a30b-4634-82cb-0cef6fd38427"
+    },
+    {
+      "start_time": 50,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium close up low angel of a champaign tower which  displays the position of luxuries. The low angel gives a powerful stance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "b8544f28-3d40-473b-abbe-298ac14dcefa"
     }
   ],
   "set": "Default",
