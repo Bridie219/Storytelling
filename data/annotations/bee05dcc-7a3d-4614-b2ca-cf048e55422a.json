@@ -679,6 +679,51 @@
         }
       ],
       "uuid": "eaa3ec82-b89e-4fe8-80df-5ec80847ab68"
+    },
+    {
+      "start_time": 242,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kaz, Jesper and Inej are known for their cunning schemes, but at the start of Shadow and Bone, they are only beginning to assert themselves as major players within the criminal underworld. They have to find a way to cement their power and authority, and the best way to do that is to undertake the most impressive heists they can. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That, and if someone double crosses them, they have to ensure they don't get away with it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "a9724cb1-5868-4de0-868d-9ed125c1f2b1"
     }
   ],
   "set": "Default",
