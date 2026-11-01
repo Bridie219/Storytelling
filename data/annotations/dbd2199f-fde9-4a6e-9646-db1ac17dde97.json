@@ -99,6 +99,31 @@
         }
       ],
       "uuid": "89f4b045-812a-4bf7-beef-10163e946464"
+    },
+    {
+      "start_time": 320,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “memes as inherited ideas” framework comes from Dawkins’ The Selfish Gene (1976). Metal Gear Solid 2 puts it in a mainstream action game, in 2001, before “meme” meant internet jokes. It’s an example of games carrying heavy ideas at a time when they were rarely expected to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "7eeec690-df26-4808-9b92-a6d521d7e56f"
     }
   ],
   "set": "Default",
