@@ -20,7 +20,32 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Games like Baldurs Gate III have multiple maps, dozens of quest lines, and multiple characters will fully fleshed out storylines. They allow you to have relationships with in-game characters, with good and bad dialogue options that can completely change the outcome of the storyline. The game play is structured like Dungeons and Dragons, so choices have levels of difficulty, and you must roll a dice to determine the outcome of a situation. It is designed to be pass fail, but there are ways you can save your progress and ensure you have the option of making a better decision. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Games like Baldur's Gate III have multiple maps, dozens of quest lines, and multiple characters will fully fleshed out storylines. They allow you to have relationships with in-game characters, with good and bad dialogue options that can completely change the outcome of the storyline. The game play is structured like Dungeons and Dragons, so choices have levels of difficulty, and you must roll a dice to determine the outcome of a situation. It is designed to be pass fail, but there are ways you can save your progress and ensure you have the option of making a better decision. "
         }
       ]
     },
@@ -86,6 +111,23 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -102,7 +144,7 @@
   "slug": "the-evolution-of-narratives-within-video-game",
   "created_at": "2026-11-01T05:53:00.016Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-11-01T05:55:02.599Z",
+  "updated_at": "2026-11-01T05:56:51.298Z",
   "updated_by": "Bridie219",
   "parent": "e92c9c0b-f567-4f2a-9f01-a4ed8bedd7c5"
 }
