@@ -225,6 +225,47 @@
         }
       ],
       "uuid": "406bb366-8f81-4a88-9aed-c7ff461404bc"
+    },
+    {
+      "start_time": 151,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lucy's curiosity quickly gets the better of her fear, and she approaches the satyr, eager to explore this magical world she's discovered. Though she doesn't know if she's safe, it's like she thinks a world this magical couldn't possibly put her in danger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        }
+      ],
+      "uuid": "e51af00d-9e59-4dcc-a783-6197fee74b9e"
     }
   ],
   "set": "Default",
