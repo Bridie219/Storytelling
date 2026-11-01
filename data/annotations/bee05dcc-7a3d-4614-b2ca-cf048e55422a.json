@@ -544,6 +544,55 @@
         }
       ],
       "uuid": "16f38e82-9f7d-402f-8983-fde471287ae2"
+    },
+    {
+      "start_time": 191,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The myth of the Sun Summoner is an unproven possibility. She is the only true hope they have of erasing the darkness of the Shadow Fold, and rescuing Ravka's war efforts. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General Kirigan, the Darkling, is unable to tear down the Shadow Fold for a very good reason: \"have you ever put out a fire by adding more fire?\" Any effort he makes to tear down the Shadow Fold only makes the darkness worse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "a3225db7-9997-4acb-bb14-bda2e1a638d8"
     }
   ],
   "set": "Default",
