@@ -103,6 +103,31 @@
         }
       ],
       "uuid": "b8544f28-3d40-473b-abbe-298ac14dcefa"
+    },
+    {
+      "start_time": 53,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Extreme close up shot of Marie trying on two different styles of necklaces. Historically necklaces are a symbol of status and wealth, but metaphorically represent consumerism as a centre of her life and how she views royalty.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "1b4fc533-54ff-4719-a785-a22011f32bec"
     }
   ],
   "set": "Default",
