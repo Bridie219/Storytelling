@@ -42,7 +42,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Recognition"
+        }
+      ],
       "uuid": "ca8b5e03-ab64-4af7-8712-4bb10af98c62"
     },
     {
