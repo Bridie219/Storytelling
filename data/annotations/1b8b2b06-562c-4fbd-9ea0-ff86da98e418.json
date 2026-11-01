@@ -1,1 +1,40 @@
-{"annotations":[],"set":"Default","event_id":"770cc285-c204-439c-946d-44029071cdd6","source_id":"53ccd74a-ea65-4c41-a1f3-0d30bcde9fcb"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The way Lucy moves backwards into the wardrobe seems like she's playing hide and seek. She doesn't expect anything to be behind her but more clothes. She's hiding in a wardrobe, a very mundane place for a child to hide. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        }
+      ],
+      "uuid": "5503bc2d-36cd-4786-ae8b-5a5f2f7a641a"
+    }
+  ],
+  "set": "Default",
+  "event_id": "770cc285-c204-439c-946d-44029071cdd6",
+  "source_id": "53ccd74a-ea65-4c41-a1f3-0d30bcde9fcb"
+}
