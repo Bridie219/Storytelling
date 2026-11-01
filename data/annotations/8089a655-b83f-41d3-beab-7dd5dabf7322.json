@@ -53,6 +53,27 @@
         }
       ],
       "uuid": "7d47da4b-7005-4424-bb48-d51f9bc56fe2"
+    },
+    {
+      "start_time": 24,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A wide shot of Marie and her ladies in waiting shopping and enthusiastically examining the range of colour fabrics indicates how social consumerism is being encouraged by her friends. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "2c2834cc-a30b-4634-82cb-0cef6fd38427"
     }
   ],
   "set": "Default",
