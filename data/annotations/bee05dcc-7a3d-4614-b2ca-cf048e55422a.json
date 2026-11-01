@@ -28,6 +28,39 @@
         }
       ],
       "uuid": "ce8d565f-4ea0-40ea-b8f7-37bf7c889a16"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alina's hands glowing signifies her powers, immediately informing the audience that this is a world of magic, and it is completely separate from our world. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "23ba0d9b-1a08-44cb-9493-141ceef613a3"
     }
   ],
   "set": "Default",
