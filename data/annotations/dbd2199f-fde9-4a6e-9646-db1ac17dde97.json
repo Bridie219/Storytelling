@@ -149,6 +149,31 @@
         }
       ],
       "uuid": "fb823f1d-9c05-4244-a186-45bdd570995b"
+    },
+    {
+      "start_time": 497,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the best ways to show the evolution of video game writing how the way villains have become.The villains are not cartoonish in the method of evil, but make the players question their own beliefs and consider the arguments being presented to them by the antagonists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "d5e8e367-3f65-43eb-ab0d-b0d73763cbba"
     }
   ],
   "set": "Default",
