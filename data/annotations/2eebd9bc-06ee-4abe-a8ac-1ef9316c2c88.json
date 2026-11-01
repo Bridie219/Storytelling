@@ -24,6 +24,53 @@
         }
       ],
       "uuid": "84c4e5b0-7b7d-46a4-974d-cedf60fda78e"
+    },
+    {
+      "start_time": 80,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The science fiction movie "
+            },
+            {
+              "text": "Starship Troopers",
+              "italic": true
+            },
+            {
+              "text": " directed by Paul Verhoeven is an adaptation of "
+            },
+            {
+              "text": "Starship Troopers ",
+              "italic": true
+            },
+            {
+              "text": "by Robert A Heinlein. The movie is a satire of the militarism of America and fascism which is evidenced by the director's commentary. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Futuristic"
+        }
+      ],
+      "uuid": "1e390d82-4394-46b6-b1b9-86719116fd3c"
     }
   ],
   "set": "Default",
