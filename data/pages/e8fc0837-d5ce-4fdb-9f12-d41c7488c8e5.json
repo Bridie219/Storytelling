@@ -4,23 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Tropes have emerged as a way of organising romance stories. Romance stories are marketed by their tropes, in order to signal to readers exactly what they should expect when they open the book."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The tropes are designed to create a specific understanding of certain moments within the romance structure, further hinting at the kinds of issues the characters will face over the course of the romance novel. "
         }
       ]
     },
@@ -41,15 +25,14 @@
       ]
     }
   ],
-  "title": "The Tropes of Romance",
-  "parent": "54027898-5bdd-46bc-8b78-dc21b6cd21f9",
+  "title": "Delete",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "the-tropes-of-romance",
+  "slug": "delete",
   "created_at": "2026-10-27T23:50:38.099Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-31T11:09:19.831Z",
+  "updated_at": "2026-11-01T09:23:50.403Z",
   "updated_by": "Bridie219"
 }
