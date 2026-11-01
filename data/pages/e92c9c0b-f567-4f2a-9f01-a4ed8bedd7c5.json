@@ -39,7 +39,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -61,7 +62,7 @@
   "created_at": "2026-10-26T00:35:05.807Z",
   "created_by": "Bridie219",
   "title": "The Genres and Forms of Storytelling",
-  "updated_at": "2026-11-01T08:26:11.468Z",
+  "updated_at": "2026-11-01T09:36:29.113Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": false,
