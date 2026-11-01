@@ -215,7 +215,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Meeting"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        }
+      ],
       "uuid": "4048927f-78e7-4892-933e-c7dffad1fbc2"
     },
     {
