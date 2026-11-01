@@ -180,6 +180,51 @@
         }
       ],
       "uuid": "f03fb03c-98e2-4060-97ae-98781866469b"
+    },
+    {
+      "start_time": 121,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lucy's encounter with the centaur frightens them both. Lucy is confused because it's not human, and this is the first moment where she has seen something outside of the ordinary in Narnia. This is when she begins to learn she's stepped through a portal into another world."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In order to communicate that Lucy is in a magical world, they need to establish that there are normal things (trees, snow, lampposts) in this magical world, but also centaurs and mythical creatures."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        }
+      ],
+      "uuid": "406bb366-8f81-4a88-9aed-c7ff461404bc"
     }
   ],
   "set": "Default",
