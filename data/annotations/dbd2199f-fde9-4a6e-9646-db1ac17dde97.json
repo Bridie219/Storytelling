@@ -74,6 +74,31 @@
         }
       ],
       "uuid": "75fda116-5564-4848-a048-0c83a7430360"
+    },
+    {
+      "start_time": 195,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The games are able to provide complex and difficult political ideas simply as they demonstrates how terrifying AI can become when it's basing its understanding purely on ideology, without being checked by any morality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "89f4b045-812a-4bf7-beef-10163e946464"
     }
   ],
   "set": "Default",
