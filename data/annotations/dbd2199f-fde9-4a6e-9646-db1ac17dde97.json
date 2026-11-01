@@ -124,6 +124,31 @@
         }
       ],
       "uuid": "7eeec690-df26-4808-9b92-a6d521d7e56f"
+    },
+    {
+      "start_time": 409,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The AI's worry about information overload and people retreating into sources that confirm what they already believe. The narrator highlights just how far ahead of its time this was. It’s often cited as a reason Metal Gear Solid 2 holds up as speculative fiction rather than just a period piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "fb823f1d-9c05-4244-a186-45bdd570995b"
     }
   ],
   "set": "Default",
