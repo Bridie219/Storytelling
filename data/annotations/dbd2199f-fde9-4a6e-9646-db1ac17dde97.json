@@ -49,6 +49,31 @@
         }
       ],
       "uuid": "13bb6f25-a237-492e-9386-ad5e9ef46002"
+    },
+    {
+      "start_time": 166,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This idea of playing on the gamers instinct to listen to the in-game authority figure/advisor, is played with throughout the series as Kojima constantly subverts their expectations by having them become unreliable guides."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "75fda116-5564-4848-a048-0c83a7430360"
     }
   ],
   "set": "Default",
