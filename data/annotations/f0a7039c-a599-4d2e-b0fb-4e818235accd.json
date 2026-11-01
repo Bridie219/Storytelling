@@ -46,7 +46,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        }
+      ],
       "uuid": "bf9a9a67-2eeb-4ba6-a1ef-45a1be6cbf06"
     },
     {
