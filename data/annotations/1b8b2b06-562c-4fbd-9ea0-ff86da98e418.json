@@ -143,6 +143,43 @@
         }
       ],
       "uuid": "9ab5476f-f609-4e95-ba4a-f1a9a115bc9c"
+    },
+    {
+      "start_time": 86,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The inclusion of the lamppost is a hilarious detail by CS Lewis, because he and Tolkien had an argument that including things like a lamppost would break immersion for the reader, because then they would wonder how electricity existed in a magical world, who put it there, or where it came from. CS Lewis did it to spite Tolkien. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        }
+      ],
+      "uuid": "f03fb03c-98e2-4060-97ae-98781866469b"
     }
   ],
   "set": "Default",
