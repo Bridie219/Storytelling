@@ -211,7 +211,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romance",
+          "tag": "Moment of Ritual Death"
+        }
+      ],
       "uuid": "ace28274-841f-4c5f-b76e-3cda92327eb5"
     }
   ],
