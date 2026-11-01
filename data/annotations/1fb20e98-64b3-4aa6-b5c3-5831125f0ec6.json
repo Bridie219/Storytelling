@@ -1,5 +1,43 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sabrina seems like a perfectly normal teenaged girl, going home after a date. It seems very much like she has a normal life, until the door is closed to the \"real\" world, acting as a barrier between the world outside, and the magical world Sabrina exists in at home.\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Liminal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        }
+      ],
+      "uuid": "1828a0e6-bf17-470f-8d70-51a1649b6ed5"
+    }
+  ],
   "set": "Default",
   "event_id": "96e3cf78-4bbb-40ee-9006-bb1d3f94843b",
   "source_id": "ad4a9a17-3fd0-4481-bc4b-f958bc247186"
