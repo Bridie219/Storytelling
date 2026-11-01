@@ -128,6 +128,35 @@
         }
       ],
       "uuid": "1b4fc533-54ff-4719-a785-a22011f32bec"
+    },
+    {
+      "start_time": 66,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another close up shot of Marie trying on shoes and how the floor is untidy with champagne, food and cards on the floor to further emphasise the admiration of consumerism and teenage messiness and how Maria is still young. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        }
+      ],
+      "uuid": "3d865bc5-69cc-4b7d-92c8-c6570e08742b"
     }
   ],
   "set": "Default",
