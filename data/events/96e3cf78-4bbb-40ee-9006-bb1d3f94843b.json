@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Chilling Adventures of Sabrina",
+  "label": "Liminal Fantasy: A Case Study on The Chilling Adventures of Sabrina",
   "created_at": "2026-10-27T11:00:15.073Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-27T11:00:15.073Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-11-01T03:07:18.724Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "ad4a9a17-3fd0-4481-bc4b-f958bc247186"
+  ]
 }
