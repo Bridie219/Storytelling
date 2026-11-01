@@ -1,0 +1,141 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Science Fiction is a genre that has often been utilised to provide warnings about the future, or social commentary. It's a way of cautioning advancement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mary Shelley's "
+        },
+        {
+          "text": "Frankenstein",
+          "italic": true
+        },
+        {
+          "text": " is often considered one of the earliest examples of the genre, with a moral message about what it means to attempt to ascend to godliness. It's a warning about the unknown risks that follow technological advancement. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Science Fiction often explores the risks posed by technological advancement, and it's typically set in a futuristic setting. Much of science fiction has explored the potential for human development, with a particular focus on what happens when technology outpaces humanity. A lot of the focus of recent science fiction texts asks about the inherent threat posed by Artificial Intelligence, with many authors attempting to dissuade people from using it, and developing it. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Science Fiction has also been used to explore the world in a more dystopian manner. It allows authors to explore the what-if scenarios of the world, for example "
+        },
+        {
+          "text": "Divergent",
+          "italic": true
+        },
+        {
+          "text": " by Veronica Roth is a metaphor for neurodivergence, and the way the world has been designed for neurotypical people. Dystopias are important because they lead the audience to consider what could happen, if humanity remains on the course its set for itself. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The film "
+        },
+        {
+          "text": "Starship Troopers",
+          "italic": true
+        },
+        {
+          "text": " was a satirical commentary on the Second World War, with examination and mockery of fascism, communism, and the over-dependence on military advancement. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Starship_Troopers_-_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "The Genre of Science Fiction",
+  "parent": "e92c9c0b-f567-4f2a-9f01-a4ed8bedd7c5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-genre-of-science-fiction",
+  "created_at": "2026-11-01T05:42:55.099Z",
+  "created_by": "Bridie219",
+  "updated_at": "2026-11-01T05:42:55.099Z",
+  "updated_by": "Bridie219"
+}
