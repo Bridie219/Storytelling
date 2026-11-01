@@ -153,7 +153,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Romance",
+          "tag": "Moment of Ritual Death"
+        }
+      ],
       "uuid": "837eb812-e21f-4757-ac4c-0f55047c788f"
     },
     {
