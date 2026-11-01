@@ -50,7 +50,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Ritual Death"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Recognition"
+        }
+      ],
       "uuid": "08548412-f129-4320-8784-49c83411bde0"
     },
     {
