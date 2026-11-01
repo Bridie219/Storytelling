@@ -48,6 +48,55 @@
         }
       ],
       "uuid": "fc00a69d-9c7b-4e2c-be47-bc3b0f166538"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In intrusive fantasy, the secondary and existing worlds are often involved in conflicts, with a group that belongs to both worlds acting as the sentries, preventing the secondary world from crushing the existing world. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Shadowhunters, the Nephilim are the ones preventing the demons from crossing into the existing world. They are from the world of Angels and Demons, as they are part Angel, and they are also part human. Their humanity gives them a\nreason to protect the human world from the Demon threat. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        }
+      ],
+      "uuid": "55692a9f-4981-4649-b969-07e1df5e3b4a"
     }
   ],
   "set": "Default",
