@@ -332,6 +332,47 @@
         }
       ],
       "uuid": "012280d9-680f-41fe-b570-e4d18f29a6f0"
+    },
+    {
+      "start_time": 106,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Second Army are viewed as more valuable than the First Army, because of Ravka's failure to industrialise. They haven't been able to continue building weaponry, so their only advantage is the magical powers possessed by the Grisha. The Grisha are powerful, and therefore they are hunted by the Fjerdans, who have the Grisha executed upon capture. The Fjerdans are also raised to believe that the Grisha are evil, and should be hunted and killed. They basically believe that Grisha feed on children to survive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "8291b8a8-8544-4962-8c0e-6cd4e6788826"
     }
   ],
   "set": "Default",
