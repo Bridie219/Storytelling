@@ -249,6 +249,43 @@
         }
       ],
       "uuid": "0acd2f03-1eb0-405e-aadf-5ae4ba354eb5"
+    },
+    {
+      "start_time": 51,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clary's acceptance of the mission is a key moment for her character. It shows that despite everything she's seen, she's willing to join the fight for the Nephilim, to save the human world. Even as she looks terrified, there's a steely determination in her eyes. She is, after all, a Nephilim, and they are born to be warriors. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        }
+      ],
+      "uuid": "12e101b6-e9d9-42db-9c74-1ff9501f0fd6"
     }
   ],
   "set": "Default",
