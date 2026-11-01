@@ -28,6 +28,31 @@
         }
       ],
       "uuid": "f527b25a-3fa1-452d-b37e-274458e743c5"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This big close up shot of Marie Antoinette’s feet while trying on luxurious shoes with the Converse sneakers in the background emphasises that Maria is young and an inexperienced queen who takes pleasure in consumerism, revealing the human nature of teenage girls. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "7d47da4b-7005-4424-bb48-d51f9bc56fe2"
     }
   ],
   "set": "Default",
