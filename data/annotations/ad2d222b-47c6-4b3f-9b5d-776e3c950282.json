@@ -28,6 +28,35 @@
         }
       ],
       "uuid": "0f843a1a-57d4-459a-9c50-7b8d3bd192bb"
+    },
+    {
+      "start_time": 21,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A medium shot of Marie being dressed in her robe by her maid emphasises the urgency to get to safety. The hand held camera gives a more personal and imitate feel to the scene.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Urgency"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        }
+      ],
+      "uuid": "9354f58f-26f0-468e-b0d9-8254abb7e482"
     }
   ],
   "set": "Default",
