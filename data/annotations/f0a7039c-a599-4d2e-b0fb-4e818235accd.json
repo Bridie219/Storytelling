@@ -231,12 +231,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Elizabeth making fun of Mr Darcy's behaviour at the first ball continues to ensure Mr Darcy is aware of the little regard she has for him. he feels the need to defend his actions, but Elizabeth is quick to dismiss his defence. Mr Darcy feels the need to improve her impression of him, because he wants her to think as highly of him as he does of her. "
+              "text": "Elizabeth making fun of Mr Darcy's behaviour at the first ball continues to ensure Mr Darcy is aware of the little regard she has for him. He feels the need to defend his actions, but Elizabeth is quick to dismiss his defence. Mr Darcy feels the need to improve her impression of him, because he wants her to think as highly of him as he does of her. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Declaration"
+        }
+      ],
       "uuid": "321cfa94-7bad-4b73-a399-d20daf780aae"
     },
     {
