@@ -209,6 +209,47 @@
         }
       ],
       "uuid": "b669ca13-cd53-4e62-9a3b-2c9b010f522c"
+    },
+    {
+      "start_time": 63,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The conflicts between Ravka, Fjerda and Shu Han are lightly inspired by the conflicts between Russia, Europe and Asia during World War II. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "32e56249-994b-433e-b97f-94a13070b85d"
     }
   ],
   "set": "Default",
