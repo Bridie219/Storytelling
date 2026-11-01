@@ -761,6 +761,55 @@
         }
       ],
       "uuid": "297413be-d7fc-4859-8530-dd476b691830"
+    },
+    {
+      "start_time": 269,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The incredible intricacies of the world building and the detail put into the storylines really help to establish the otherworld as not just a distorted reflection of the existing world, but as a world that stands independently, with its own political issues, and warfare. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The magic system is also beautifully explored, and all of the details just make the world-building even more immersive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        }
+      ],
+      "uuid": "bdc53126-30f1-4d19-90b3-3d83c50f6d0c"
     }
   ],
   "set": "Default",
