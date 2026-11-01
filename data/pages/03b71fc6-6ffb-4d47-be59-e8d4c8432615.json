@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Liminal Fantasy: A Case Study on The Chilling Adventures of Sabrina",
   "slug": "liminal-fantasy-a-case-study-on-the-chilling",
-  "updated_at": "2026-10-27T11:00:15.421Z",
+  "updated_at": "2026-11-01T03:08:36.165Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "96e3cf78-4bbb-40ee-9006-bb1d3f94843b"
-  }
+  },
+  "parent": "30c10eee-b3cc-40b6-956a-f7f4a7b0ed3d"
 }
