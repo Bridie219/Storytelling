@@ -4,11 +4,12 @@
   "created_by": "Bridie219",
   "title": "Historical Fiction: A Case Study of Marie Antoinette",
   "slug": "historical-fiction-a-case-study-of-marie-ant",
-  "updated_at": "2026-11-01T04:36:43.280Z",
+  "updated_at": "2026-11-01T04:41:54.821Z",
   "updated_by": "Bridie219",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "efbfd07e-46cb-4f82-9839-93874b0e8bcc"
-  }
+  },
+  "parent": "b8b26ed7-6aff-48df-ba31-2a0d778877d1"
 }
