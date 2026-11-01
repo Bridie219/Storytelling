@@ -75,7 +75,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Betrothal"
+        }
+      ],
       "uuid": "28c4626f-f8bc-4772-9d9e-23408c2d267b"
     }
   ],
