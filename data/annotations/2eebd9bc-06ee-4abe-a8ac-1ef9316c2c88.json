@@ -317,6 +317,46 @@
         }
       ],
       "uuid": "2d94445a-0a36-4d35-9531-ed7e58921593"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Heinlein uses the setting and genre of "
+            },
+            {
+              "text": "Starship Troopers",
+              "italic": true
+            },
+            {
+              "text": " to critique the as he saw it growing weakness within American culture. Heinlein presents a world that only though strength and military might can survive an existential threat. The 'bugs'  are a thinly disguised analogy for Communism and China."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Futuristic"
+        }
+      ],
+      "uuid": "1570d460-a8d8-438b-a4a7-3f4f07743e25"
     }
   ],
   "set": "Default",
