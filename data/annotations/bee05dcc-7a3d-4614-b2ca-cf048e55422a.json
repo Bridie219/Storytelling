@@ -160,6 +160,51 @@
         }
       ],
       "uuid": "c00bb645-e9f5-4bdd-bf55-ea4a7d9d92ac"
+    },
+    {
+      "start_time": 47,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bardugo talks about the influences for the architecture of the world, as well as the monarchy that rules Ravka. The show also reflects the potential for civil war between the Bolsheviks and the Proletariats, through the First and Second Army. The Second Army is full of Grisha, who are beings able to manipulate matter. The First Army are regular foot soldiers. The Second Army receives better supplies and rations, and more equipment, as they are deemed more valuable (therefore a metaphor for the Bolsheviks). "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A book set in another world doesn't necessarily mean it is free of commentary from the existing world. Often times, the otherworld tends to reflect the real world at the reader through a lens of social commentary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        }
+      ],
+      "uuid": "b669ca13-cd53-4e62-9a3b-2c9b010f522c"
     }
   ],
   "set": "Default",
