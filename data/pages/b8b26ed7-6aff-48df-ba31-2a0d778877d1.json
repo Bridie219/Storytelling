@@ -17,6 +17,15 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGzFwqmsq4Pc4CTA0IsXkSR7Pro3nzGreUJzXG50GXyrauvyIkzcH5Y6A&s=10",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -76,17 +85,25 @@
           "text": "A critical moment of the film is when the French commoners and revolutionists have decided to overthrow the monarchy. The dark lightning used in this scene connates the idea of monarchy finally realising the extent of the Revolution and the terror of the situation. The pivotal moment where Marie faces the angry crowd on the balcony and bows to them, if this particular act had occurred is still uncertain, but the powerful silence in that moment emphasises the final performative act of being the monarch.    "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
-  "title": "Historical Fiction",
+  "title": "The Genre of Historical Fiction",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "historical-fiction",
+  "slug": "the-genre-of-historical-fiction",
   "created_at": "2026-10-27T22:56:01.087Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-31T11:10:25.668Z",
+  "updated_at": "2026-11-01T04:32:04.828Z",
   "updated_by": "Bridie219",
   "parent": "e92c9c0b-f567-4f2a-9f01-a4ed8bedd7c5"
 }
