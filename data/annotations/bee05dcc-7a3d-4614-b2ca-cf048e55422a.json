@@ -593,6 +593,47 @@
         }
       ],
       "uuid": "a3225db7-9997-4acb-bb14-bda2e1a638d8"
+    },
+    {
+      "start_time": 204,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alina's discovery of her magic ignites hope across Ravka, and offers a morale boost to the Second Army, and to the First Army as well. It gives Ravka a fighting chance in the war effort, which is a problem for the rest of the world, so Alina quickly becomes hunted. If she tears down the Shadow Fold, it will mean Ravka has a real chance at winning the war, despite its failure to industrialise. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        }
+      ],
+      "uuid": "6d7127ff-8705-406f-b19f-a36683cbd841"
     }
   ],
   "set": "Default",
