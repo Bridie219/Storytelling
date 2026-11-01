@@ -100,6 +100,39 @@
         }
       ],
       "uuid": "cbd3bc6b-b515-4db5-a3fe-65159d5d1ae9"
+    },
+    {
+      "start_time": 440,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The note of Mormon extremism is a direct reference to American history through this detail of the world-building as a direct critique of America's colonial past. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Dystopian"
+        }
+      ],
+      "uuid": "a1e22efa-fd49-49b9-8846-c207650ac446"
     }
   ],
   "set": "Default",
