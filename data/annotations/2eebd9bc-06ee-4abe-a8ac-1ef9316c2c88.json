@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        }
+      ],
+      "uuid": "84c4e5b0-7b7d-46a4-974d-cedf60fda78e"
+    }
+  ],
   "set": "Default",
   "event_id": "8a153c3a-dcd2-4ba9-9caf-1c5674dc1ecb",
   "source_id": "6630e264-a5d2-4334-a991-a79f95c7d20d"
