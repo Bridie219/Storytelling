@@ -9,9 +9,12 @@
     }
   },
   "auto_generate_web_page": true,
-  "label": "Shadow and Bone Otherworld",
+  "label": "Otherworld Fantasy: A Case Study of Shadow and Bone",
   "created_at": "2026-10-27T11:00:15.073Z",
   "created_by": "Bridie219",
-  "updated_at": "2026-10-27T11:00:15.073Z",
-  "updated_by": "Bridie219"
+  "updated_at": "2026-11-01T03:27:05.032Z",
+  "updated_by": "Bridie219",
+  "av_file_order": [
+    "6c12d8b5-cbea-4676-badd-d1141cda727e"
+  ]
 }
