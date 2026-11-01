@@ -373,6 +373,75 @@
         }
       ],
       "uuid": "8291b8a8-8544-4962-8c0e-6cd4e6788826"
+    },
+    {
+      "start_time": 122,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The three orders of the Grisha are each invaluable in a fight. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Summoners can control the elements, like wind, fire, air, water. They are typically employed in hand-to-hand combat, because they are able to fight well, and can use their powers to incapacitate multiple soldiers at once. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Materialki are able to manipulate objects. This makes them good at inventing things, or constructing armour and other things. They design things to aid the Second Army."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Heartrenders are their healers, but they can also be deadly on the battlefield. They are able to manipulate a person's body, so they could compress your lungs, or break your bones, but they could also realign them and heal you. They are able to save lives or end them, and they are very dangerous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "f48159cc-af74-4320-8b37-d5fac1873f69"
     }
   ],
   "set": "Default",
