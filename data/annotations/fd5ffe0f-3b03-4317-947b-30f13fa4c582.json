@@ -42,7 +42,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Meeting"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        }
+      ],
       "uuid": "acc48560-f81d-48a2-a471-4e46b30f14f6"
     },
     {
