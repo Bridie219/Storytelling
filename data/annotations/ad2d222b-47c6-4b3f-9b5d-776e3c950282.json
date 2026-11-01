@@ -57,6 +57,35 @@
         }
       ],
       "uuid": "9354f58f-26f0-468e-b0d9-8254abb7e482"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mid shot of Marie, one of her ladies and the maid quickly descending the stairs. This tracking shot embodies the audience to feel the urgency and danger of the situation. Marie is holding a candelabra captures Marie taking control over the situation to get her children and husband to safety. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "History"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Control"
+        }
+      ],
+      "uuid": "0c42aea0-49eb-4425-8d60-a2d56a7a993b"
     }
   ],
   "set": "Default",
