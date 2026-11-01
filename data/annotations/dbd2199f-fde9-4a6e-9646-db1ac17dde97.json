@@ -174,6 +174,31 @@
         }
       ],
       "uuid": "d5e8e367-3f65-43eb-ab0d-b0d73763cbba"
+    },
+    {
+      "start_time": 830,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The narrator’s point that Metal Gear Solid 2 predated “fake news” by about two decades, supports the claim that games can hold their own as social commentary alongside film and novels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Forms",
+          "tag": "Video Game"
+        },
+        {
+          "category": "Video Games",
+          "tag": "Gaming Narrative"
+        }
+      ],
+      "uuid": "6938af4a-01c7-4582-bbea-7488034b87d0"
     }
   ],
   "set": "Default",
