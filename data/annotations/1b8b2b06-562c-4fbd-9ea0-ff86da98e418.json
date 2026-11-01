@@ -106,6 +106,43 @@
         }
       ],
       "uuid": "0babf90f-6f3c-421d-b4bd-2757c9fe7c69"
+    },
+    {
+      "start_time": 76,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She glances over her shoulder quickly, to make sure that she can still return home. She wants to explore the new world, but she doesn't want to leave her life behind either. As long as the portal is there, Lucy could have Narnia, and her world, too. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        }
+      ],
+      "uuid": "9ab5476f-f609-4e95-ba4a-f1a9a115bc9c"
     }
   ],
   "set": "Default",
