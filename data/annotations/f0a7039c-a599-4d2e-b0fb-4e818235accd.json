@@ -137,7 +137,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Society"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        }
+      ],
       "uuid": "d3edba9a-915b-4051-bdfb-d52c148be482"
     },
     {
