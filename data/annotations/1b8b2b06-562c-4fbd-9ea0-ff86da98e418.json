@@ -32,6 +32,43 @@
         }
       ],
       "uuid": "5503bc2d-36cd-4786-ae8b-5a5f2f7a641a"
+    },
+    {
+      "start_time": 23,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She slowly turns around to investigate why she felt the cold of snow on her fingertips, and then quickly looks back, to make sure no one is following her. It's almost like she doesn't want to get into trouble for going somewhere she isn't supposed to go. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Portal Fantasy"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        }
+      ],
+      "uuid": "96d156a7-3982-4c68-a752-5de187b4ae96"
     }
   ],
   "set": "Default",
