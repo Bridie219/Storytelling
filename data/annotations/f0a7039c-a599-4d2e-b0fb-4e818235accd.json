@@ -475,7 +475,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Recognition"
+        },
+        {
+          "category": "Romantasy",
+          "tag": "Betrothal"
+        }
+      ],
       "uuid": "7844700e-bc75-4651-bf94-74d18ec29b51"
     }
   ],
