@@ -170,6 +170,39 @@
         }
       ],
       "uuid": "410c08d2-e2ac-434f-b703-b05791c7abbe"
+    },
+    {
+      "start_time": 601,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speech given by the Sky Marshall  parodies overly militaristic language and warmongering. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Science Fiction"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Politics"
+        },
+        {
+          "category": "Science Fiction",
+          "tag": "Dystopian"
+        }
+      ],
+      "uuid": "9c0aeb6a-d46d-4e0d-82f4-bcc07fcbd853"
     }
   ],
   "set": "Default",
