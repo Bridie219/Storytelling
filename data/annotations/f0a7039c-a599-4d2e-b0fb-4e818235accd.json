@@ -438,7 +438,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Romance",
+          "tag": "Recognition"
+        }
+      ],
       "uuid": "cbc81189-b8f0-4391-8da6-b16cce25569f"
     },
     {
