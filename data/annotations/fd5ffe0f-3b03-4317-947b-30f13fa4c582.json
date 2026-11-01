@@ -174,7 +174,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romance",
+          "tag": "Meeting"
+        }
+      ],
       "uuid": "8f177059-4ff7-4401-baf8-7d2b248469a5"
     },
     {
