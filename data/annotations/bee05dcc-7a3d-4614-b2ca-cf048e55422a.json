@@ -250,6 +250,47 @@
         }
       ],
       "uuid": "32e56249-994b-433e-b97f-94a13070b85d"
+    },
+    {
+      "start_time": 76,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The reference to the First Army as cannon fodder is accurate. They are sent through the Shadow Fold as they are viewed as expendable. They are the most replaceable, but Grisha are very powerful and few, and must be protected. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Politics"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Otherworld"
+        }
+      ],
+      "uuid": "e3210d52-d77a-4ee4-addd-135dec572a18"
     }
   ],
   "set": "Default",
