@@ -108,7 +108,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Moment of Ritual Death"
+        },
+        {
+          "category": "Romance",
+          "tag": "Recognition"
+        }
+      ],
       "uuid": "0261e530-5e66-41fc-bbdc-4a047c49b067"
     }
   ],
