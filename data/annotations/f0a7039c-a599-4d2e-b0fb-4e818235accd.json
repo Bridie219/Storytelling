@@ -108,7 +108,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        }
+      ],
       "uuid": "7f86eaef-5480-443e-ad62-676f630189b4"
     },
     {
