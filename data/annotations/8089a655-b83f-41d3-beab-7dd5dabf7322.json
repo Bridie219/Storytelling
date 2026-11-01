@@ -215,6 +215,31 @@
         }
       ],
       "uuid": "127d7968-abe4-48ca-8a94-d982883e2ae6"
+    },
+    {
+      "start_time": 125,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close up shot of Marie with an extravagant hairstyle and indulging in luxury as a teenager would. The items of birds symbolise that Maria feels freedom from strict French court life when she engages in consumerism of luxury items. Marie directly looking at the audience reveals that she is only admiring herself and how luxury is the main focus of her life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Historical Fiction",
+          "tag": "Materialism"
+        },
+        {
+          "category": "Historical Fiction",
+          "tag": "Camera Shot"
+        }
+      ],
+      "uuid": "87577ef5-4276-4f63-94a7-d035fa990551"
     }
   ],
   "set": "Default",
