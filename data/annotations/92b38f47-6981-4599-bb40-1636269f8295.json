@@ -130,6 +130,47 @@
         }
       ],
       "uuid": "527c9e02-5c80-4173-bb07-4e109427aadd"
+    },
+    {
+      "start_time": 23,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Clary and the other Nephilim, they have a mission to defend the human world. If they fail todispatch demons, the human world will become overrun with them.\nThe other Nephilim have been raised as warriors, but Clary was raised in the human world - her mother wanted to protect her from the demon world, and her father. For Clary, coming to terms with the mission she faces is incredibly difficult."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Fantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Worldbuilding"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Rules"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Magic System"
+        },
+        {
+          "category": "Fantasy",
+          "tag": "Intrusive Fantasy"
+        }
+      ],
+      "uuid": "d6f3b01c-e31c-4104-850c-67ac0c3eb477"
     }
   ],
   "set": "Default",
