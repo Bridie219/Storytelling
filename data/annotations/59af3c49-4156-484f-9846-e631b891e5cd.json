@@ -322,7 +322,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romantasy"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Society"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        }
+      ],
       "uuid": "51e9e0d3-9299-4b04-96a5-639cfccb6ac3"
     },
     {
