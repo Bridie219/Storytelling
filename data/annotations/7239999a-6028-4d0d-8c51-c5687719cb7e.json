@@ -36,6 +36,47 @@
         }
       ],
       "uuid": "d78e70fc-08c4-40b7-a857-44d21bb31235"
+    },
+    {
+      "start_time": 31,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jane is then challenged on her decision to marry Guildford if she considers him to be as terrible as she suggests. In response, she explains that her decision is motivated by family honour and the need to protect her sister, rather than any personal desire or romantic interest. This reinforces the arranged marriage trope, demonstrating how familial obligations, social expectations and the protection of loved ones can take precedence over individual happiness and romantic choice. Jane's response highlights the sacrifices she is willing to make for her family, positioning marriage as a strategic obligation rather than an act of love.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Arranged Marriage"
+        },
+        {
+          "category": "Romance",
+          "tag": "Meeting"
+        }
+      ],
+      "uuid": "f490b769-069c-4c2b-9744-c23c3ca371c2"
     }
   ],
   "set": "Default",
