@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In My Lady Jane, the scene introduces the arranged marriage between Lady Jane Grey and Lord Guildford Dudley. Their initial hostility towards one another establishes that their union is politically and strategically motivated rather than founded on love. This is particularly evident when Jane takes a jab at Guildford's reputation as a womaniser, revealing her skepticism towards his character and reinforcing the lack of romantic affection between them at this stage. The exchange establishes the arranged marriage trope, while also foreshadowing the possibility that their initial animosity may gradually develop into romantic attraction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Television Show"
+        },
+        {
+          "category": "Romance",
+          "tag": "Barrier"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        }
+      ],
+      "uuid": "d78e70fc-08c4-40b7-a857-44d21bb31235"
+    }
+  ],
   "set": "Default",
   "event_id": "adcbe5d5-bb6b-4332-b1b6-9907980d6bdd",
   "source_id": "7f7fd50d-38f1-4e2c-a536-c31800996c34"
