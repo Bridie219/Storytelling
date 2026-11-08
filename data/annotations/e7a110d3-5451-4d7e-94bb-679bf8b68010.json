@@ -32,6 +32,39 @@
         }
       ],
       "uuid": "adc74f4a-f464-4178-a22b-1b6f9d701edd"
+    },
+    {
+      "start_time": 26,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peeta urges Katniss to stay by his side, revealing his fear and vulnerability as his condition deteriorates. However, Katniss is determined to defy the rules and risk entering the dangerous arena to obtain the medicine he desperately needs. Despite Peeta's pleas, she refuses to stand by helplessly, demonstrating her determination to protect him. Their conflicting responses highlight Peeta's fear of losing Katniss and Katniss's willingness to put herself in danger for his survival."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Starcrossed Lovers"
+        }
+      ],
+      "uuid": "a3635dd5-3b4f-4f44-bec8-bdea5c2563c2"
     }
   ],
   "set": "Default",
