@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While Peeta is injured and in a vulnerable state, he opens up to Katniss about how long he has been interested in her, recalling how he would watch her walk home every day. His confession reveals that his feelings for her began long before their circumstances brought them together. As Katniss processes this unexpected revelation, Peeta encourages her to tell him something about herself. She hesitantly lowers her emotional defences, admitting that she is \"not good at saying things.\" This exchange highlights Katniss's difficulty expressing her emotions and her gradual willingness to become vulnerable with Peeta.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Romance",
+          "tag": "Attraction"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Starcrossed Lovers"
+        }
+      ],
+      "uuid": "adc74f4a-f464-4178-a22b-1b6f9d701edd"
+    }
+  ],
   "set": "Default",
   "event_id": "adcbe5d5-bb6b-4332-b1b6-9907980d6bdd",
   "source_id": "b24b551a-c04e-4203-ba76-3d823bf265f0"
