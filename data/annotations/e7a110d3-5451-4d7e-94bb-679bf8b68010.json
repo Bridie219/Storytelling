@@ -65,6 +65,39 @@
         }
       ],
       "uuid": "a3635dd5-3b4f-4f44-bec8-bdea5c2563c2"
+    },
+    {
+      "start_time": 71,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Having spent much of the film suppressing her emotions and keeping Peeta at a distance, Katniss finally allows herself to become vulnerable. When questioned about why she is willing to risk her life for him, she gives in to her feelings and leans down to kiss Peeta. Meanwhile, Gale (her childhood best friend) watches the moment unfold with a solemn, betrayed expression, suggesting his hurt and jealousy as he witnesses Katniss sharing an intimate moment with Peeta. This moment highlights Katniss's gradual acceptance of her feelings while exposing the emotional tension and conflicting loyalties within the love triangle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genres",
+          "tag": "Romance"
+        },
+        {
+          "category": "Forms",
+          "tag": "Movie"
+        },
+        {
+          "category": "Romance",
+          "tag": "Declaration"
+        },
+        {
+          "category": "Tropes",
+          "tag": "Starcrossed Lovers"
+        }
+      ],
+      "uuid": "ed9edcb4-5874-4c42-b318-2e2a18b8757f"
     }
   ],
   "set": "Default",
